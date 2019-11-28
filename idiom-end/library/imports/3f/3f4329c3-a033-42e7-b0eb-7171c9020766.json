@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "令牌",
+    "texture": "eca8dff4-1f52-43d7-86e7-9f35bfde1dea",
+    "atlas": "",
+    "rect": [
+      8,
+      8,
+      110,
+      124
+    ],
+    "offset": [
+      4,
+      0.5
+    ],
+    "originalSize": [
+      118,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

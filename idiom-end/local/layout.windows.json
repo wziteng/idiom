@@ -1,0 +1,112 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "worker": {},
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 0,
+      "y": 0,
+      "width": 1366,
+      "height": 728,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 304,
+                "type": "panel",
+                "width": 204
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 303,
+                "type": "panel",
+                "width": 204
+              }
+            ],
+            "height": 609,
+            "type": "dock-v",
+            "width": 204
+          },
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "scene"
+                ],
+                "height": 304,
+                "type": "panel",
+                "width": 815.984375
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 303,
+                "type": "panel",
+                "width": 815.984375
+              }
+            ],
+            "height": 609,
+            "type": "dock-v",
+            "width": 815.984375
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "cocos-services",
+              "node-library"
+            ],
+            "height": 609,
+            "type": "panel",
+            "width": 326
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "console",
+        "timeline",
+        "inspector",
+        "cocos-services",
+        "node-library",
+        "scene"
+      ]
+    }
+  },
+  "panels": {
+    "preferences": {
+      "x": 385,
+      "y": 84,
+      "width": 600,
+      "height": 565
+    },
+    "builder": {
+      "x": 605,
+      "y": 96,
+      "width": 686,
+      "height": 746
+    },
+    "project-settings": {
+      "x": 662,
+      "y": 240,
+      "width": 600,
+      "height": 565
+    }
+  }
+}

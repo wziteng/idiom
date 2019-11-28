@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "微信",
+    "texture": "a1d7b5fa-2775-4137-82c1-395865e3054f",
+    "atlas": "",
+    "rect": [
+      13,
+      29,
+      174,
+      141
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

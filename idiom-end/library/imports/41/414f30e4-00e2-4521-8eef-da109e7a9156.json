@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "礼物",
+    "texture": "4390f9cc-e092-4379-a9f3-ae647ae3ac3b",
+    "atlas": "",
+    "rect": [
+      39,
+      36,
+      119,
+      128
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "本子",
+    "texture": "5fa6041e-18b3-468a-8610-d8294b679c6d",
+    "atlas": "",
+    "rect": [
+      35,
+      39,
+      130,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

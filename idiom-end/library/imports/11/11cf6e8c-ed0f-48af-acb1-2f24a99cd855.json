@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meitou",
+    "texture": "c807783c-0445-47c3-aa03-20557fd7d71f",
+    "atlas": "",
+    "rect": [
+      66,
+      22,
+      468,
+      121
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      600,
+      161
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

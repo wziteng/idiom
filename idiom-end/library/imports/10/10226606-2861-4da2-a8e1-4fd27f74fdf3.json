@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "客服",
+    "texture": "22d46008-3dba-4ccb-be85-c6647b78fb39",
+    "atlas": "",
+    "rect": [
+      34,
+      24,
+      132,
+      152
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

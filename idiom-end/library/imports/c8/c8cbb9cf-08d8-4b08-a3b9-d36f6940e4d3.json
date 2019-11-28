@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "重新",
+    "texture": "b0a2849e-a4e6-4af6-a68d-96e0d6d5724f",
+    "atlas": "",
+    "rect": [
+      11,
+      21,
+      179,
+      158
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

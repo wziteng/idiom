@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "biaoqian_bg",
+    "texture": "40ed5461-e6a8-40f7-b6e5-63c094abb906",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1077,
+      349
+    ],
+    "offset": [
+      -11.5,
+      0
+    ],
+    "originalSize": [
+      1100,
+      349
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始按钮",
+    "texture": "95d0aa8a-bedf-4861-9ec5-a3117954289e",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      298,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      310,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

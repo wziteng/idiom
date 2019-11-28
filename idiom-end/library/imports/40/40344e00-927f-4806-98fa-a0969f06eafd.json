@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "投诉建议",
+    "texture": "6364712c-7f06-4723-a885-251c17723a7a",
+    "atlas": "",
+    "rect": [
+      18,
+      19,
+      162,
+      161
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

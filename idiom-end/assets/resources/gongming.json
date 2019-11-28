@@ -1,0 +1,226 @@
+[
+  {
+      "name": "原始天尊",
+      "leaves": 3120,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "灵宝天尊",
+      "leaves": 2920,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "太上老君",
+      "leaves": 2720,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "九天真王",
+      "leaves": 2520,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "玉皇大帝",
+      "leaves": 2320,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "东华帝君",
+      "leaves": 2120,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "太乙真人",
+      "leaves": 1920,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+   {
+      "name": "太白金星",
+      "leaves": 1720,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+   {
+      "name": "紫薇星君",
+      "leaves": 1520,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "太上皇",
+      "leaves": 1320,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "皇上",
+      "leaves": 1240,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "亲王",
+      "leaves": 1160,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "郡王",
+      "leaves": 1080,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "镇国公",
+      "leaves": 1000,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "辅国公",
+      "leaves": 940,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "宁远侯",
+      "leaves": 880,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "一品大丞相",
+      "leaves": 820,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+   {
+      "name": "二品内阁学士",
+      "leaves": 760,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "三品吏部尚书",
+      "leaves": 700,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "四品知府",
+      "leaves": 640,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "五品翰林学士",
+      "leaves": 580,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "六品太平博士",
+      "leaves": 520,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "七品县令",
+      "leaves": 460,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "八品侍郎",
+      "leaves": 400,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "九品芝麻官",
+      "leaves": 340,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "状元",
+      "leaves": 280,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "榜眼",
+      "leaves": 220,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "探花",
+      "leaves": 160,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "举人",
+      "leaves": 44,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "秀才",
+      "leaves": 16,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "穷书生",
+      "leaves": 1,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    },
+    {
+      "name": "乞丐",
+      "leaves": 0,
+      "sFS": "./Texture/icon/l_button",
+      "nFS": "./Texture/icon/h_button",
+      "lFS": "./Texture/icon/biaoqian_bg"
+    }
+ ]

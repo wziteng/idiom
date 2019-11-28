@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duanan",
+    "texture": "77e957cd-b980-480c-83e6-1725b4f3e61e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      150,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      150,
+      266
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

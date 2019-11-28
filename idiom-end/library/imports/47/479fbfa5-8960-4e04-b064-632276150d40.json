@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加号",
+    "texture": "5a00556c-33c1-4fd0-9ebe-76bff5ececbb",
+    "atlas": "",
+    "rect": [
+      22,
+      22,
+      157,
+      157
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

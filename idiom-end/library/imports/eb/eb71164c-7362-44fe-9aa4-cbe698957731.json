@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gognzhonghao",
+    "texture": "d84ca7fb-4933-47e0-a5ab-77aa2eacebe2",
+    "atlas": "",
+    "rect": [
+      59,
+      29,
+      122,
+      120
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      240,
+      179
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
